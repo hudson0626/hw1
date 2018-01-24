@@ -1,0 +1,15 @@
+html {font-family: "arial"; font-size: 12px}
+
+p {line-height: normal; color:black}
+
+li {line-height: 20px}
+
+h1 {margin bottom: 6px; padding-bottom: 1px; color: green}
+
+h2 {color: gray; border-bottom: solid gray 5px;}
+
+h3 {margin-left: 30px; color: red}
+
+body {color: black; font-size: 15px}
+
+.link {color: blue;}
